@@ -3,10 +3,10 @@ body {
     margin: 0;
 }
 
-.container {
+section {
     width: 100%;
     display: flex;
-    margin-top: 0px;
+    margin-bottom: 100px;
 }
 
 .half-width {
